@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Hi! My name is Margaux Reynolds, and I'm a third year in the UVA School of Data Science.
+Hi! My name is Margaux Reynolds, and I'm a fourth-year Data Science student at UVA.
 
 <!--
 **margauxreynolds/margauxreynolds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
