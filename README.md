@@ -1,6 +1,6 @@
 # Margaux Reynolds
 
-I'm a fourth-year Data Science student at the University of Virginia, graduating in May 2027. I'm interested in analytics, data engineering, and AI product design.
+I'm a fourth-year Data Science student at the University of Virginia, graduating in May 2027. 
 
 ## Selected projects
 
